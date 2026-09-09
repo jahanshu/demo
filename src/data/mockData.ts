@@ -161,7 +161,7 @@ export const TRANSLATIONS = {
     step4Title: '4. Share & Sell',
     step4Desc: 'Share directly to WhatsApp, Instagram, or our marketplace.',
     testimonialQuote: '"I used to wait weeks for someone to write descriptions for my silk sarees. Now, I just take a photo with my phone, speak in Hindi about the patterns, and the app creates a beautiful English listing instantly. My sales on WhatsApp have doubled because my products look professional."',
-    testimonialAuthor: 'Lakshmi Devi',
+    testimonialAuthor: 'Emilia Clarke',
     testimonialRole: 'Master Weaver, Varanasi',
     supportedBy: 'SUPPORTED BY',
     uploadPhotoPrompt: 'Upload Product Photo',
